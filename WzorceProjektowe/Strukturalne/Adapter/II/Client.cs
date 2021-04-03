@@ -23,7 +23,10 @@ namespace WzorceProjektowe.Strukturalne.Adapter.II
             Console.WriteLine(ClientInfo(person));
 
             Console.WriteLine(ClientInfo(new PersonAdapter(dbPerson)));
-                 
+
+            Console.WriteLine(ClientInfo(DbPersonAdoptee.ToPerson(dbPerson)));
+
+
         }
 
         public static string ClientInfo(IPerson person)
