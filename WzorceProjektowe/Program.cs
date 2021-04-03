@@ -1,4 +1,5 @@
 ﻿using System;
+using WzorceProjektowe.Strukturalne.Adapter.I;
 
 namespace WzorceProjektowe
 {
@@ -7,6 +8,8 @@ namespace WzorceProjektowe
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Client.Execute();
         }
     }
 }

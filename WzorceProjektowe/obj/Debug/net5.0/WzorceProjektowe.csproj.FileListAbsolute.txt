@@ -1,0 +1,16 @@
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\net5.0\WzorceProjektowe.exe
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\net5.0\WzorceProjektowe.deps.json
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\net5.0\WzorceProjektowe.runtimeconfig.json
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\net5.0\WzorceProjektowe.runtimeconfig.dev.json
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\net5.0\WzorceProjektowe.dll
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\net5.0\ref\WzorceProjektowe.dll
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\net5.0\WzorceProjektowe.pdb
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\net5.0\WzorceProjektowe.csprojAssemblyReference.cache
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\net5.0\WzorceProjektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\net5.0\WzorceProjektowe.AssemblyInfoInputs.cache
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\net5.0\WzorceProjektowe.AssemblyInfo.cs
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\net5.0\WzorceProjektowe.csproj.CoreCompileInputs.cache
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\net5.0\WzorceProjektowe.dll
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\net5.0\ref\WzorceProjektowe.dll
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\net5.0\WzorceProjektowe.pdb
+C:\Users\b.sikorski\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\net5.0\WzorceProjektowe.genruntimeconfig.cache
