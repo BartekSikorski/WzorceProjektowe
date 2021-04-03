@@ -26,6 +26,9 @@ namespace WzorceProjektowe.Strukturalne.Adapter.II
 
             Console.WriteLine(ClientInfo(DbPersonAdoptee.ToPerson(dbPerson)));
 
+            Console.WriteLine(ClientInfo(dbPerson.AdoptToPerson()));
+
+
 
         }
 
