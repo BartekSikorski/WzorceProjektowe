@@ -12,6 +12,7 @@ namespace WzorceProjektowe.Strukturalne.Bridge.I
             shape.Color = color;
 
             Console.WriteLine(shape);
+            Console.WriteLine(new Square { Color = new BlueColor() });
         }
     }
 }
