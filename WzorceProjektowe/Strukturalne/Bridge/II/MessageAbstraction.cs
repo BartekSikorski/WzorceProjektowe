@@ -15,7 +15,7 @@ namespace WzorceProjektowe.Strukturalne.Bridge.II
             MessageImplementation = messageImplementation;
         }
 
-        public void Send(string message)
+        public  virtual void Send(string message)
         {
             MessageImplementation.SendMesssage(message);
         }
