@@ -6,7 +6,7 @@
 
         public override string ToString()
         {
-            return $"{Color.ColorVALUE} {GetType().Name}";
+            return $"{Color} {GetType().Name}";
         }
     }
 }
