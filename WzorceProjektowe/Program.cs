@@ -9,7 +9,7 @@ namespace WzorceProjektowe
         {
             Console.WriteLine("Hello World!");
 
-            Strukturalne.Bridge.I.Client.Execute();
+            Strukturalne.Bridge.II.Client.Execute();
         }
     }
 }
