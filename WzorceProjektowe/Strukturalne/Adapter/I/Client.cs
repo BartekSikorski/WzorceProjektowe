@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WzorceProjektowe.Strukturalne.Adapter.I
 {
@@ -17,7 +13,6 @@ namespace WzorceProjektowe.Strukturalne.Adapter.I
 
             Console.WriteLine(CheckRadius(circle));
             Console.WriteLine(CheckRadius(new CircleAdapter(square)));
-
         }
 
         public static bool CheckRadius(ICircle circle)

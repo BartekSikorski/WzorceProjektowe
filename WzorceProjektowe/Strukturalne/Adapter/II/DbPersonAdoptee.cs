@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WzorceProjektowe.Strukturalne.Adapter.II
 {
@@ -17,6 +13,5 @@ namespace WzorceProjektowe.Strukturalne.Adapter.II
         {
             return new Person { Name = dbPerson.FirstName + " " + dbPerson.LastName, Age = DateTime.Now.Year - dbPerson.BirthDate.Year };
         }
-
     }
 }

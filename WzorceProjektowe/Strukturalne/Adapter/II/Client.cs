@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WzorceProjektowe.Strukturalne.Adapter.II
 {
     public class Client
     {
-
         public static void Execute()
         {
             Person person = new Person();
@@ -27,9 +22,6 @@ namespace WzorceProjektowe.Strukturalne.Adapter.II
             Console.WriteLine(ClientInfo(DbPersonAdoptee.ToPerson(dbPerson)));
 
             Console.WriteLine(ClientInfo(dbPerson.AdoptToPerson()));
-
-
-
         }
 
         public static string ClientInfo(IPerson person)
