@@ -6,7 +6,7 @@ namespace WzorceProjektowe
     {
         private static void Main(string[] args)
         {
-            Strukturalne.Docorator.I.Client.Execute();
+            Strukturalne.Composite.Client.Execute();
         }
     }
 }
