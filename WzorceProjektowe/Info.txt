@@ -1,2 +1,0 @@
-﻿Powtórka na bazie kursu
-https://github.com/lMSDl/Altkom.12-15.10.2020.WPCSharp
