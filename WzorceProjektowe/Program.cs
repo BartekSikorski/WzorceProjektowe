@@ -6,7 +6,7 @@
     {
         private static void Main(string[] args)
         {
-            Creational.Builder.Client.Execute();
+            Creational.Singleton.Client.Execute();
         }
     }
 }
