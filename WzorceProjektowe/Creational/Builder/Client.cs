@@ -9,7 +9,7 @@ namespace WzorceProjektowe.Creational.Builder
         {
             var vehicle = new VehicleBuilderFacade()
                 .Components
-                    .SetDoors(4)'
+                    .SetDoors(4)
                     .SetEnginePower(1500)
                     .SetSeats(4)
                     .SetWheels(4)
