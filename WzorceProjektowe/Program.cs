@@ -6,7 +6,7 @@
     {
         private static void Main(string[] args)
         {
-            Creational.Builder.Client.Execute();
+            Strukturalne.Facade.I.Client.Execute();
         }
     }
 }
