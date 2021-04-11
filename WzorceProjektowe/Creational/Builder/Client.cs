@@ -7,15 +7,19 @@ namespace WzorceProjektowe.Creational.Builder
     {
         public static void Execute()
         {
-            var vehicle = new VehicleBuilder()
-                 .SetDoors(4)
-                 .SetEnginePower(1500)
-                 .SetSeats(4)
-                 .SetWheels(4)
+            var vehicle = new VehicleBuilderFacade()
+                .Components
+                    .SetDoors(4)'
+                    .SetEnginePower(1500)
+                    .SetSeats(4)
+                    .SetWheels(4)
+                 .Manufacturer
+                    .SetManufacturer("BArtek SA")
+                    .SetModel("Traktor GT TD")
+                    .SetProductionDate(DateTime.Today)
                  .Build();
 
             Console.WriteLine(JsonConvert.SerializeObject(vehicle));
-
         }
     }
 }

@@ -1,7 +1,11 @@
 ﻿namespace WzorceProjektowe.Creational.Builder
 {
-    public class VehicleBuilder : BaseVehicleBuilder
+    public class VehicleBuilder : VehicleBuilderFacade
     {
+        public VehicleBuilder(Vehicle vehicle) : base(vehicle)
+        {
+        }
+
         public VehicleBuilder SetDoors(int value)
         {
             _vehicle.Doors = value;
