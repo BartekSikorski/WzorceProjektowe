@@ -6,7 +6,7 @@
     {
         private static void Main(string[] args)
         {
-            Creational.Prototype.Client.Execute();
+            Strukturalne.Proxy.Client.Execute();
         }
     }
 }
