@@ -6,7 +6,7 @@
     {
         private static void Main(string[] args)
         {
-            Behavioral.ChainOfResponsibility.Client.Execute();
+            Behavioral.Observer.Client.Execute();
         }
     }
 }
