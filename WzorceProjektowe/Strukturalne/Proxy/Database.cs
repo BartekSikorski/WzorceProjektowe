@@ -19,7 +19,7 @@ namespace WzorceProjektowe.Strukturalne.Proxy
 
             _connectionCounter++;
             Console.WriteLine($"Opening connection {_connectionCounter}");
-            await Task.Delay(1000);
+            await Task.Delay(3000);
 
             Console.WriteLine($"Request {parameter} completed ({_connectionCounter})");
             _connectionCounter--;

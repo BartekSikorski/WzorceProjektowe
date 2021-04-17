@@ -6,7 +6,7 @@
     {
         private static void Main(string[] args)
         {
-            Strukturalne.Proxy.Client.Execute();
+            Behavioral.ChainOfResponsibility.Client.Execute();
         }
     }
 }
