@@ -6,7 +6,7 @@
     {
         private static void Main(string[] args)
         {
-            Behavioral.Observer.Client.Execute();
+            Behavioral.Strategy.Client.Execute();
         }
     }
 }
